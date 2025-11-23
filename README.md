@@ -1,21 +1,17 @@
 # 🎭 expo-morphing-text
-
 🔤 A smooth, morphing text animation component for React Native
 
 ## 🎥 Preview
 
 <div align="center">
 
-### iOS
-https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb
-
-### Android
-https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae
+| iOS | Android |
+|:---:|:---:|
+| https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb | https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae |
 
 </div>
 
 ## ✨ Features
-
 - 🔤 Smooth morphing text animations
 - ⚡ Built with **Reanimated 3** + **Expo**
 - 📱 Works on **iOS & Android**
@@ -26,7 +22,6 @@ https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae
 ---
 
 ## ⚙️ Installation
-
 ```bash
 git clone https://github.com/rit3zh/expo-morphing-text
 cd expo-morphing-text
