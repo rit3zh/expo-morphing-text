@@ -1,6 +1,7 @@
 {
   "name": "expo-morphing-text",
   "main": "expo-router/entry",
+  "description": "📝 Morphing text for React Native & Expo",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
@@ -17,7 +18,7 @@
     "@react-navigation/native": "^7.1.8",
     "expo": "~54.0.25",
     "expo-constants": "~18.0.10",
-    "expo-font": "~14.0.9",
+    "expo-font": "^14.0.9",
     "expo-haptics": "~15.0.7",
     "expo-image": "~3.0.10",
     "expo-linking": "~8.0.9",
@@ -31,11 +32,11 @@
     "react-dom": "19.1.0",
     "react-native": "0.81.5",
     "react-native-gesture-handler": "~2.28.0",
-    "react-native-worklets": "0.5.1",
     "react-native-reanimated": "~4.1.1",
     "react-native-safe-area-context": "~5.6.0",
     "react-native-screens": "~4.16.0",
-    "react-native-web": "~0.21.0"
+    "react-native-web": "~0.21.0",
+    "react-native-worklets": "0.5.1"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
