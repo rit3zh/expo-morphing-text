@@ -5,10 +5,13 @@
 ## 🎥 Preview
 
 **iOS Preview**
-![iOS Preview](https://github.com/user-attachments/assets/ios-morphing-preview.gif)
+https://github.com/user-attachments/assets/30fe0e06-b3a2-4b81-a2b5-ef63da188c0c
+
+
 
 **Android Preview**
-![Android Preview](https://github.com/user-attachments/assets/android-morphing-preview.gif)
+https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae
+
 
 ---
 
