@@ -4,7 +4,7 @@
 
 ## 🎥 Preview
 
-![Android Preview](https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae)
+https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae
 
 ---
 
