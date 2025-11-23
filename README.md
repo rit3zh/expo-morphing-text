@@ -4,18 +4,22 @@
 ## 🎥 Preview
 
 <table>
-  <tr>
-    <td align="center"><b>iOS</b></td>
-    <td align="center"><b>Android</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb" alt="iOS Demo" width="100%"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae" alt="Android Demo" width="100%"/>
-    </td>
-  </tr>
+<tr>
+<td>
+
+**iOS**
+
+https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb
+
+</td>
+<td>
+
+**Android**
+
+https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae
+
+</td>
+</tr>
 </table>
 
 ## ✨ Features
