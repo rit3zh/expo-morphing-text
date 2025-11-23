@@ -4,10 +4,15 @@
 
 ## 🎥 Preview
 
-## android
+<div align="center">
+
+### iOS
+https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb
+
+### Android
 https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae
 
----
+</div>
 
 ## ✨ Features
 
