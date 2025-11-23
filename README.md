@@ -3,24 +3,20 @@
 
 ## 🎥 Preview
 
-<div align="center">
-  <table>
-    <tr>
-      <th>iOS</th>
-      <th>Android</th>
-    </tr>
-    <tr>
-      <td>
-        <video src="https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb" width="300" height="600" controls>
-        </video>
-      </td>
-      <td>
-        <video src="https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae" width="300" height="600" controls>
-        </video>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center"><b>iOS</b></td>
+    <td align="center"><b>Android</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/17cc50f0-1ef7-43a2-877b-cf76503e13eb" alt="iOS Demo" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fcab8e14-68cb-46a6-878b-d637d583e0ae" alt="Android Demo" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features
 - 🔤 Smooth morphing text animations
